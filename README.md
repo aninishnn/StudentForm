@@ -1,3 +1,3 @@
 # Student Form
 
-![Demo](demo.gif)
+<video src="demo.mp4" controls width="320"></video>
